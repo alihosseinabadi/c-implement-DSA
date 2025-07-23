@@ -1,0 +1,4 @@
+﻿  c++.cpp
+C:\Users\hosse\source\repos\c++\c++\c++.cpp(18,67): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hosse\source\repos\c++\c++\c++.cpp(18,92): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  c++.vcxproj -> C:\Users\hosse\source\repos\c++\x64\Debug\c++.exe
